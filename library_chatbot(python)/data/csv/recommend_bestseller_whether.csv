@@ -1,0 +1,185 @@
+﻿input,label,label2
+베스트 셀러 추천좀 해줘,bestseller,bestseller
+베스트 셀러 좀 추천 해줘,bestseller,bestseller
+최근 가장 인기 많은 책들 추천 해줘,bestseller,bestseller
+요즘 인기 있는 책좀 추천 해줘,bestseller,bestseller
+많이 본 책 추천해줘,bestseller,bestseller
+사람들이 많이 본 책 추천 해줘,bestseller,bestseller
+최근에 많이 본 도서 추천 해줘,bestseller,bestseller
+베스트 셀러 부탁 드려요,bestseller,bestseller
+최근 베스트 셀러 좀 추천해주세요,bestseller,bestseller
+요즘 인기 많은 책 좀 부탁드려요,bestseller,bestseller
+베스트 셀러 추천 좀,bestseller,bestseller
+요즘 많이 보는 책 추천좀,bestseller,bestseller
+최근 많이 팔리는 책 추천좀,bestseller,bestseller
+요즘 잘 팔리는 책 추천좀,bestseller,bestseller
+{장르명} 책들 중에 인기 많은 책 추천좀  ,bestseller,bestseller_genre
+{장르명} 책 중에 인기 많은 거 없을까?,bestseller,bestseller_genre
+베스트 셀러 중에 {장르명} 책들 추천좀,bestseller,bestseller_genre
+인기 많은 책들 중에 {장르명} 도서 추천좀,bestseller,bestseller_genre
+사람들이 많이 본 {장르명} 도서 추천좀,bestseller,bestseller_genre
+{장르명} 중에 인기 많은 책들 좀 알려줘,bestseller,bestseller_genre
+{장르명} 중 사람들이 많이 본 책들 좀 알려줘,bestseller,bestseller_genre
+{장르명} 베스트 셀러 추천좀,bestseller,bestseller_genre
+{장르명} 베스트 셀러들좀 추천해줘,bestseller,bestseller_genre
+인기 있는 {장르명} 도서 추천좀,bestseller,bestseller_genre
+요즘 잘팔리는 {장르명}  책들 추천해줘,bestseller,bestseller_genre
+요즘 인기 많은 {장르명} 책들좀 알려줘,bestseller,bestseller_genre
+최근 많이 보는 {장르명} 책들 알려줘,bestseller,bestseller_genre
+요즘 사람들이 많이 보는 {장르명} 책들 좀 추천해줘,bestseller,bestseller_genre
+{장르명} 장르 중에 요즘 인기 많은 책들 좀 추천해줘,bestseller,bestseller_genre
+{장르명} 장르 중에 베스트 셀러 추천좀 ,bestseller,bestseller_genre
+{장르명} 장르 중에서 사람들이 많이 본 책좀 추천해봐,bestseller,bestseller_genre
+{장르명} 중에서 요즘 많이 팔리는 도서들 추천좀,bestseller,bestseller_genre
+요즘 {장르명} 장르 책들 중에 인기 많은 게뭐야?,bestseller,bestseller_genre
+최근 {장르명} 장르 책들중에 베스트 셀러좀 알려줘 ,bestseller,bestseller_genre
+{작가명} 님 책 중에 가장 인기 많은 책들 추천 좀,bestseller,bestseller_writer
+{작가명} 도서 중에 인기 많은 책 좀,bestseller,bestseller_writer
+{작가명} 책 중에 베스트 셀러 추천좀,bestseller,bestseller_writer
+{작가명} 님 책들 중 베스트 셀러 추천좀,bestseller,bestseller_writer
+베스트 셀러 중에 {작가명} 작가님 책 추천좀,bestseller,bestseller_writer
+베스트 셀러 중 {작가명} 님 책들 추천 해줘,bestseller,bestseller_writer
+베스트 셀러들 중에 {작가명} 작가님 도서 추천 좀 해줘,bestseller,bestseller_writer
+인기 많은 책들 중에 {작가명} 책들 추천좀,bestseller,bestseller_writer
+인기 있는 도서들 중에 {작가명} 작품 추천좀,bestseller,bestseller_writer
+최근 사람들이 많이 본 책중에 {작가명} 작품들 추천좀,bestseller,bestseller_writer
+{작가명} 이 쓰신 베스트셀러 추천 해줘,bestseller,bestseller_writer
+{작가명} 이 집필하신 책들중에 베스트셀러 추천좀,bestseller,bestseller_writer
+{작가명} 도서들중에 잘팔리는 것들 추천 해줘,bestseller,bestseller_writer
+{작가명} 작가님이 쓰신 책들 중에 베스트 셀러 좀 ,bestseller,bestseller_writer
+{작가명} 님 책들 중에 인기 많은 책들 좀 ,bestseller,bestseller_writer
+{작가명} 님 책 중에 사람들이 많이 본 책들 좀,bestseller,bestseller_writer
+사람들이 많이 본 책 중에 {작가명} 도서들 추천좀,bestseller,bestseller_writer
+요즘 {작가명} 작품 중에 인기 많은게 뭐야?,bestseller,bestseller_writer
+최근 {작가명} 작품들 중에 인기 많은 책들 추천좀,bestseller,bestseller_writer
+{작가명} 작가분이 쓰신 작품중에 베스트 셀러 추천좀 해줘,bestseller,bestseller_writer
+{작가명} 이 쓴 책들 중에 인기 많은 것들 좀 추천해줘,bestseller,bestseller_writer
+{작가명} 작품 중에 사람들이 많이 보는 것 좀,bestseller,bestseller_writer
+베스트 셀러들 중에 {작가명} 작품들 뭐있어?,bestseller,bestseller_writer
+요즘 인기 있는 책들 중에 {작가명} 작가님이 쓰신 책 추천좀,bestseller,bestseller_writer
+{작가명} 작가님 작품 중에 인기 많은 책들 추천좀,bestseller,bestseller_writer
+{작가명} 이 집필한 작품들에 베스트 셀러 추천좀,bestseller,bestseller_writer
+제일 잘 나가는 책 알려줘,bestseller,bestseller
+대여 횟수 가장 많은 책 추천 부탁,bestseller,bestseller
+대출 횟수 가장 많은 책 추천해줘,bestseller,bestseller
+사람들이 제일 많이 빌린 책 뭐야?,bestseller,bestseller
+사람들이 가장 좋아하는 책이 뭐야?,bestseller,bestseller
+사람들이 가장 많이 선택한 책이 뭐야?,bestseller,bestseller
+요즘 제일 잘 나가는 책 이름 알려줘,bestseller,bestseller
+최근에 대출 횟수가 제일 많은 책 이름 알려줘,bestseller,bestseller
+최근 대여 횟수가 가장 높은 책 추천 부탁,bestseller,bestseller
+인기 있는 책 알려줘,bestseller,bestseller
+인기 있는 책 이름이 뭐야?,bestseller,bestseller
+베스트셀러추천해죠,bestseller,bestseller
+추천해줄 책 있어?,bestseller,bestseller
+추천할 책 있음?,bestseller,bestseller
+책 추천 좀,bestseller,bestseller
+책 추천,bestseller,bestseller
+사람들이 제일 좋아하는 게 뭐야?,bestseller,bestseller
+서점에서 제일 많이 팔린 책 뭐야?,bestseller,bestseller
+서점에서 제일 많이 팔렸던 책 추천 좀,bestseller,bestseller
+제일 많이 팔렸던 책 추천해줘,bestseller,bestseller
+살면서 꼭 읽어야 하는 책 알려줘,bestseller,bestseller
+죽기 전에 꼭 읽어야 하는 책 추천 좀,bestseller,bestseller
+다른 사람에게 추천해줄 수 있는 책 알려줘,bestseller,bestseller
+{장르명} 중 제일 유명한 책이 뭐야?,bestseller,bestseller_genre
+{장르명} 중 제일 잘 나가는 책 이름 알려줘,bestseller,bestseller_genre
+사람들이 좋아하는 {장르명} 책 추천해줘,bestseller,bestseller_genre
+사람들이 가장 많이 빌려간 {장르명} 책이 뭐야?,bestseller,bestseller_genre
+{장르명} 책 중 추천해줄 책 있어?,bestseller,bestseller_genre
+{장르명} 중 가장 유명한 책 추천 좀,bestseller,bestseller_genre
+제일 유명한 {장르명} 책이 뭐야?,bestseller,bestseller_genre
+{장르명} 중 꼭 읽어야 하는 책 알려줘,bestseller,bestseller_genre
+꼭 읽어야 하는 {장르명} 책 이름 알려줘,bestseller,bestseller_genre
+요즘 읽어야 하는 {장르명} 책 추천해줘,bestseller,bestseller_genre
+요며칠 사람들이 가장 많이 대여한 {장르명} 책 추천해죠,bestseller,bestseller_genre
+{장르명} 책 목록 알려줘,bestseller,bestseller_genre
+사람들이 가장 좋아하는 {장르명} 책 목록 알려줘,bestseller,bestseller_genre
+{장르명} 중 사람들이 제일 좋아하는 게 뭐야?,bestseller,bestseller_genre
+{장르명} 책 중 가장 많이 팔린 책 알려줘,bestseller,bestseller_genre
+살면서 꼭 읽어야 하는 {장르명} 책 알려줘,bestseller,bestseller_genre
+살면서 읽어야 하는 {장르명} 책이 뭐야?,bestseller,bestseller_genre
+죽기 전에 꼭 읽어야 하는 {장르명} 책 추천 좀,bestseller,bestseller_genre
+다른 사람에게 추천해줄만한 {장르명} 책 이름 알려줘,bestseller,bestseller_genre
+살면서 꼭 읽어야 하는 {작가명} 책 추천 좀 부탁,bestseller,bestseller_writer
+죽기 전에 읽어야 하는 {작가명} 책이 뭐야?,bestseller,bestseller_writer
+{작가명} 책에서 가장 많이 팔린 책 추천해줘,bestseller,bestseller_writer
+{작가명} 책 중 가장 많이 팔린 책이 뭐야?,bestseller,bestseller_writer
+사람들이 제일 좋아하는 {작가명} 책이 뭐야?,bestseller,bestseller_writer
+사람들이 가장 많이 찾는 {작가명} 책이 뭐야?,bestseller,bestseller_writer
+{작가명} 책 중 가장 유명한 책이 뭐야?,bestseller,bestseller_writer
+{작가명} 책에서 꼭 읽어야 하는 책 추천 좀,bestseller,bestseller_writer
+사람들이 가장 많이 빌린 {작가명} 책 추천해줘,bestseller,bestseller_writer
+사람들이 가장 많이 대여한 {작가명} 책이 뭐야?,bestseller,bestseller_writer
+{작가명} 책 중 꼭 읽어야 하는 책 목록이 뭐야?,bestseller,bestseller_writer
+{작가명}이 쓴 책 목록 알려줘,bestseller,bestseller_writer
+이 {작가명}의 대표작이 뭐야?,bestseller,bestseller_writer
+{작가명}의 가장 유명한 책 리스트 좀,bestseller,bestseller_writer
+{작가명} 책 추천해줄 수 있어?,bestseller,bestseller_writer
+{작가명}의 제일 유명한 책 알려줘,bestseller,bestseller_writer
+{작가명} 중 사람들이 제일 좋아하는 게 뭐야?,bestseller,bestseller_writer
+다른 사람에게 추천해줄만한 {작가명} 책 이름 알려줘,bestseller,bestseller_writer
+"여기서 사람들이 제일 많이 읽은 책이 뭐야?	",bestseller ,bestseller
+"사람들이 요즘 많이 읽는 책이 뭐야?	",bestseller ,bestseller
+"사람들이 많이 대여한 책으로 추천해 줘	",bestseller ,bestseller
+"대출 많은 순으로 추천 좀 해줘	",bestseller ,bestseller
+"대여 많은 순으로 추천해줄 수 있어?	",bestseller ,bestseller
+"베스트셀러 알려주세요	",bestseller ,bestseller
+"사람들이 많이 찾는 책 추천해줘	",bestseller ,bestseller
+"사람들이 많이 찾는 책 보여줘	",bestseller ,bestseller
+"여기서 사람들이 많이 빌려가는 게 뭐야?	",bestseller ,bestseller
+"베스트셀러 책 추천	",bestseller ,bestseller
+"요근래에 많이 빌려다 본 책 추천	",bestseller ,bestseller
+"최근에 많이 빌려 본 책 추천	",bestseller ,bestseller
+인기 많은 책 추천해주세요,bestseller ,bestseller
+많은 사람들이 선택한 책 추천해줘,bestseller ,bestseller
+많은 사람들이 대출한 책 알려줘,bestseller ,bestseller
+대여 순위가 높은 책 추천해줘,bestseller ,bestseller
+대출 순위가 높은 책 알려줘,bestseller ,bestseller
+대여 횟수가 많은 책 보여줘,bestseller ,bestseller
+최근에 인기가 많았던 책 좀 추천해줄래?,bestseller ,bestseller
+다른 사람들이 많이 빌려간 책 좀 알려줘,bestseller ,bestseller
+사람들이 가장 많이 본 책 있어?,bestseller ,bestseller
+"요즘 가장 인기있는 책이 뭐야?	",bestseller ,bestseller
+"{장르명} 에서 가장 인기있는 책 추천해줘	",bestseller ,bestseller_genre
+"{장르명} 에서 많이 빌려간 책 추천해줘	",bestseller ,bestseller_genre
+"{장르명} 중에서 베스트셀러 추천해주세요	",bestseller ,bestseller_genre
+"{장르명} 책 중에서 가장 추천해줄 만한 게 있어?	",bestseller ,bestseller_genre
+"{장르명} 중에서 가장 인기 있는 책 추천 부탁해	",bestseller ,bestseller_genre
+"{장르명} 중에 사람들이 많이 읽는 책 좀 알려줘	",bestseller ,bestseller_genre
+"{장르명} 중에 사람들한테 인기있는 책 알려줘	",bestseller ,bestseller_genre
+"{장르명} 중에 사람들이 요즘 많이 읽는 책이 뭐야?	",bestseller ,bestseller_genre
+"{장르명} 중에 꼭 읽어야 하는 책 있어?	",bestseller ,bestseller_genre
+"{장르명} 베스트셀러 알려주세요	",bestseller ,bestseller_genre
+"{장르명} 베스트셀러 알려줘	",bestseller ,bestseller_genre
+"{장르명} 중에 사람들이 많이 빌려간 책 뭐야?	",bestseller ,bestseller_genre
+"{장르명} 중에 사람들이 많이 빌려간 책들 추천 좀 해줘	",bestseller ,bestseller_genre
+"{장르명} 중에 사람들한테 인기 많은 책 있어?	",bestseller ,bestseller_genre
+"베스트셀러 중에 {장르명} 책 있으면 알려 줘	",bestseller ,bestseller_genre
+"베스트셀러 중에 {장르명} 책 있으면 말해줘	",bestseller ,bestseller_genre
+베스트셀러 중에 {장르명} 책 있어?,bestseller ,bestseller_genre
+최근에 사람들이 많이 빌려간 {장르명} 책 좀 보여줘,bestseller ,bestseller_genre
+요즘 사람들이 많이 찾는 {장르명} 책 알려줄래?,bestseller ,bestseller_genre
+사람들이 많이 찾는 {장르명} 책 보여줘,bestseller ,bestseller_genre
+{작가명} 책 중에서 사람들이 가장 많이 빌려본 책이 있어?,bestseller ,bestseller_writer
+{작가명} 책 중에서 대여 많이 한 책 추천해줘,bestseller ,bestseller_writer
+요즘 인기많은 책 중에서 {작가명} 작가 책도 있어?,bestseller ,bestseller_writer
+{작가명} 작가 책 중에서 인기많은 책 뭐야?,bestseller ,bestseller_writer
+{작가명} 책 중에 사람들이 많이 빌려간 책 보여줘,bestseller ,bestseller_writer
+{작가명} 작가 책 중에 사람들이 많이 보는 책 있어?,bestseller ,bestseller_writer
+"{작가명} 작가 책 중에 사람들이 많이 본 책 추천좀 해줘	",bestseller ,bestseller_writer
+"베스트셀러 중에 {작가명} 책 있으면 보여줘	",bestseller ,bestseller_writer
+{작가명} 책 중에 사람들이 많이 찾는 책 있어?,bestseller ,bestseller_writer
+"요즘 인기있는 책 중에 {작가명} 작가 책 있어?	",bestseller ,bestseller_writer
+최근에 인기 많은 책 중에 {작가명} 작가 책 있으면 추천 좀,bestseller ,bestseller_writer
+사람들이 많이 빌려보는 책 중에 {작가명} 작가 책 추천할 거 있어?,bestseller ,bestseller_writer
+{작가명} 책 중에 요즘 인기있는 책이 뭐야?,bestseller ,bestseller_writer
+요즘 사람들이 많이 빌려보는 책 중에 {작가명} 책 있으면 보여줄래?,bestseller ,bestseller_writer
+{작가명} 책중에 꼭 읽어야 하는 책이 있으면 추천해줘,bestseller ,bestseller_writer
+"{작가명} 베스트 셀러 목록 좀 보여줘	",bestseller ,bestseller_writer
+최근에 인기있는 책중에 {작가명} 책만 따로 보여줘,bestseller ,bestseller_writer
+사람들한테 인기 많은 책중에 {작가명} 책만 따로 알려줘,bestseller ,bestseller_writer
+{작가명} 책 중에 대표작이 있을까?,bestseller ,bestseller_writer
+"{작가명} 대표작 추천해줄래?	",bestseller ,bestseller_writer
+{작가명} 작품 중에서 사람들이 가장 좋아한 책 추천해줘,bestseller ,bestseller_writer
+"{작가명}의 어떤 책이 베스트 셀러야?	",bestseller ,bestseller_writer
