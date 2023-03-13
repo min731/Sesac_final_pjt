@@ -6,7 +6,10 @@
 # pip install sentence_transformers
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b0630b5a2200acebdd57429240adaca7dfe5ce0a
 # 0. 모델 및 데이터 로드
 
 import time
@@ -46,9 +49,12 @@ sec = int(sec % 60)
 
 print(f'모델 및 데이터 로딩 시간은 {min_}분 {sec}초가 걸렸습니다.')
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> b0630b5a2200acebdd57429240adaca7dfe5ce0a
 # 1. 전처리 객체 정의, 생성
 
 from konlpy.tag import Komoran
@@ -120,9 +126,12 @@ class Preprocess:
 
 p = Preprocess(word2index_dic=local_path+'data/dic/chatbot_dict.bin' ,userdic=local_path+'data/dic/userdict_intent_classify_v3(library).txt')
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> b0630b5a2200acebdd57429240adaca7dfe5ce0a
 # 2. Node 클래스 정의
 
 class Node:
@@ -373,9 +382,12 @@ class Node:
 
     return next_node
   
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> b0630b5a2200acebdd57429240adaca7dfe5ce0a
 # 3. 각 Node별 task 함수 정의
 
 ## 1) node1: 의도 분류 (조회,추천,문의사항)
@@ -667,9 +679,12 @@ def check_want_alarm(want_alarm_bname,want_alarm_wname):
 
   return want_alarm_label
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> b0630b5a2200acebdd57429240adaca7dfe5ce0a
 # 4. bfs 기반 챗봇 함수 정의
 
 ## BFS 메서드 정의
@@ -800,9 +815,12 @@ def set_graph(node1,node2,node3,node4,
 
 database = pd.read_csv(local_path+'/data/csv/intent_classify_v3_database(library).csv',encoding='cp949')
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> b0630b5a2200acebdd57429240adaca7dfe5ce0a
 # 7. 챗봇 실행
 
 ## 정의한 BFS 메서드 호출(노드 1을 탐색 시작 노드로 설정)
